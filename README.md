@@ -1,10 +1,10 @@
 # Homebrew Tap
 
-Homebrew casks for [ConvertMac](https://github.com/convertmac/convertmac).
+Homebrew casks for apps by [MercuryApps](https://github.com/MercuryApps).
 
 ```bash
-brew tap convertmac/tap
-brew trust convertmac/tap
+brew tap mercuryapps/tap
+brew trust mercuryapps/tap
 brew install --cask convertmac
 ```
 
@@ -12,4 +12,4 @@ brew install --cask convertmac
 
 | Cask | Description |
 |------|-------------|
-| [convertmac](https://github.com/convertmac/convertmac) | Free video and audio converter for Mac |
+| [convertmac](https://github.com/MercuryApps/convertmac) | Free video and audio converter for Mac |
