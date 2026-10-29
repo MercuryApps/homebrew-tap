@@ -1,6 +1,6 @@
 cask "video-audio-converter" do
-  version "1.1.0"
-  sha256 "6a179963e53b28263b1f736d9dea5611811b9131be1a64fc26263a074da7899a"
+  version "1.1.1"
+  sha256 "c8553dd7c3909031e51c99c8991323edc2af97f3c6ba46f426eb8569353c0592"
 
   url "https://github.com/ashrinkm/video-audio-converter/releases/download/v#{version}/Video-Audio-Converter-#{version}.dmg"
   name "Video & Audio Converter"
